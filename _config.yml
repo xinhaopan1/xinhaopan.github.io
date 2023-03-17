@@ -83,12 +83,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Master Xinhao Pan"
+  name             : "Master Xinhao Pan1"
   avatar           : "academic50k.png"
   bio              : "I am finding a Ph.D. position in geography."
   location         : "Beijing Normal University"
-  #employer         : "Beijing Normal University"
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Beijing Normal University"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   blog             : "https://www.cnblogs.com/skypanxh/"
   email            : "xinhao.pan@mail.bnu.edu.com"
