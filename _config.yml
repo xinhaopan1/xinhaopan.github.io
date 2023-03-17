@@ -34,14 +34,14 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message','zhihu']
+  allowedFields          : ['name', 'email', 'url', 'message','blog']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message', 'zhihu']
+  requiredFields         : ['name', 'email', 'message', 'blog']
   transforms:
     email                : "md5"
   generatedFields:
@@ -90,7 +90,7 @@ author:
   employer         : "Beijing Normal University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  zhihu            : "people/zhoulvbang"
+  blog             : "https://www.cnblogs.com/skypanxh/"
   email            : "xinhaopan@mail.bnu.edu.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
