@@ -83,16 +83,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "个人信息"
+  name             : "Master Xinhao Pan"
   avatar           : "academic50k.png"
   bio              : "I am finding a Ph.D. position in geography."
   location         : "China·Beijing"
   employer         : "Beijing Normal University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
   blog             : "https://www.cnblogs.com/skypanxh/"
-  email            : "xinhaopan@mail.bnu.edu.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "xinhao.pan@mail.bnu.edu.com"
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
   codepen          :
