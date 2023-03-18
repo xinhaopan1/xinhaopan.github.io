@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Honors & Awards"
+title: "Practice Experience"
 permalink: /practice/
 author_profile: true
 ---
