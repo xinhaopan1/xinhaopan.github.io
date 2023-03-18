@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: Navigation Title
-    url: /
-    scroll_to: my-section
   - title: Home
-    url: https://xinhaopan.github.io/#my-section
+    url: https://xinhaopan.github.io/#techinical
   - title: "Education"
     url: /education/
   - title: "Publications"
