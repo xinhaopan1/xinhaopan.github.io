@@ -15,21 +15,21 @@ redirect_from:
 
 * 🎓 **University of Groningen**
     * Exchange student of Spatial Sciences
-    * *09/2022~02/2023*
-    * 📍 Groningen, Netherlands
+    * 09/2022~02/2023
+    * 📍 *Groningen, Netherlands*
     
 
 * 🎓 **Beijing Normal University**
     * Master of Natural Resources
-    * *09/2020~07/2023 (except)*
-    * 📍 Beijing, China
+    * 09/2020~07/2023 (except)
+    * 📍 *Beijing, China*
     
 
 * 🎓 **Yanbian University**
     * Bachelor of Geographic Information Science (Major)
     * Bachelor of Computer Science (Minor)
-    * *09/2016~07/2020*
-    * 📍 Yanbian, China
+    * 09/2016~07/2020
+    * 📍 *Yanbian, China*
 
 
 
