@@ -6,15 +6,16 @@ author_profile: true
 ---
 
 <p style="overflow: hidden">
-    <span style="font-family: euclid">
-        <font size="5"><b>Working as the Principal Investigator</b></font>
+    
+<font size="5"><b>Working as the Principal Investigator</b></font>
+	<span style="font-family: euclid">
         <ul>
             <li style="clear:both;">
                 <span style="float: left">The 2021 Open Project of Beijing Key Laboratory of Environmental Remote Sensing and Digital City of Beijing Normal University: “<b>Research on the Delimitation of Urban Growth Boundary of Beijing-Tianjin-Hebei Urban Agglomeration</b>”. Responsible for using deep learning to simulate urban sprawl and morphological operations to delineate urban growth boundaries, as well as writing the program report and presentation.</span>
                 <span style="float: right">06/2021~09/2022</span>
             </li>
         </ul>
-        <span style="font-family: euclid"><font size="5"><b>Working as Participant</b></font></span>
+        <font size="5"><b>Working as Participant</b></font>
         <ul>
             <li style="clear:both;">
                 <span style="float: left">Participated in the 2020 Open Project “<b>Global Estimation of Current and Future Urban Exposure to Water Scarcity</b>” from Beijing Normal University State Key Laboratory of Earth Surface Processes and Resource Ecology, responsible for data processing and water stress index calculation for global catchment areas.</span>
