@@ -1,14 +1,14 @@
 # main links links
 main:
   - title: "Education"
-    url: /educatio/
+    url: /education/
   - title: "Publications"
     url: /publications/
-  - title: "Programs Experience"
+  - title: "Programs"
     url: /programs/
   - title: "Honors & Awards"
     url: /honors/
-  - title: "Pracctice Experience"
+  - title: "Pracctice"
     url: /pracctice/
   - title: "Techinical Skills"
     url: /techinical/
