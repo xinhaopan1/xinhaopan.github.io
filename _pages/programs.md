@@ -7,7 +7,7 @@ author_profile: true
 
 <span style="font-family: 'euclid';">
 
-# Working as the principle investigator
+## Working as the principle investigator
 
 <p style="overflow: hidden">
 <span style="font-family: Euclid">
@@ -18,7 +18,7 @@ author_profile: true
 <span style="float: right">06/2021~09/2022</span></li><br></ul></span></p>
 
 
-# Working as participant
+## Working as participant
 
 <p style="overflow: hidden">
 <span style="font-family: Euclid">
