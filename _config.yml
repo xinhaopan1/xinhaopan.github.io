@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinhao Pan / Academic Pages2"
+title                    : "Xinhao Pan / Academic Pages3"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "MSc Xinhao Pan"
+  name             : "Xinhao Pan"
   avatar           : "profile.png"
   bio              : "I am finding a Ph.D. position in geography."
   location         : "Beijing Normal University"
