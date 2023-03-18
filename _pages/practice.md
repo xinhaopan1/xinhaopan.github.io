@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Practice Experience"
-permalink: /practice/
+title: "Techinical Skills"
+permalink: /techinical/
 author_profile: true
 ---
 
@@ -14,43 +14,27 @@ author_profile: true
 <ul>
 <li>
 <span style="float: left">
-<b>Teaching Experience</b></span>
+<b>Remote Sensing and Geographic Information System Software and Tools</b></span>
 <br>
-<ul><li>Teaching assistant of “Remote Sensing of Land”
-<span style="float: right">2021 Fall</span><br></li>
-<li>Teaching assistant of “Landscape Sustainability Science and Geodesign Theories”
-<span style="float: right">2020 Fall</span><br></li>
-<li>Teaching assistant of “Landscape Sustainability Science and Geodesign Applications”
-<span style="float: right">2020 Fall</span></li>
-</ul>
-<br>
-
-
-<li>
-<span style="float: left">
-<b>Academic Conference</b></span>
-<br>
-<ul><li>China Conference on Geography 2021
-<span style="float: right">12/2021</span><br></li>
+<ul><li>ArcGIS, ENVI, QGIS, ERDAS, SNAP, eCognition</li>
 </ul>
 <br>
 
 <li>
 <span style="float: left">
-<b>Teaching Experience</b></span>
+<b>Programming Languages</b></span>
 <br>
-<ul><li>Tibetan Plateau
-<span style="float: right">07/2019; 07/2020 & 03/2022~04/2022 (four months)</span><br></li>
+<ul><li>Python (GDAL, PyTorch, Scikit-learn, NumPy, Pandas), GEE, R, MATLAB, C++, C#, C, JAVE</li>
 </ul>
 <br>
 
 <li>
 <span style="float: left">
-<b>Internship experience</b></span>
+<b>Geospatial Hardware</b></span>
 <br>
-<ul><li>Beijing SuperMap Information Technology Co. Ltd
-<span style="float: right">08/2029~11/2019 (four months)</span><br></li>
+<ul><li>GCMS6800, LAI2000, ASD FieldSpec, Dji Inspire, Trimble GPS, RTK-GPS</li>
 </ul>
+<br>
 
 
 </span>
