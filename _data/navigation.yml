@@ -1,7 +1,18 @@
 # main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Education"
+    url: /educatio/
+  - title: "Publications"
+    url: /publications/
+  - title: "Programs Experience"
+    url: /programs/
+  - title: "Honors & Awards"
+    url: /honors/
+  - title: "Pracctice Experience"
+    url: /pracctice/
+  - title: "Techinical Skills"
+    url: /techinical/
+
 
 
     
