@@ -11,7 +11,7 @@ main:
   - title: "Practice"
     url: /practice/
   - title: "Techinical Skills"
-    url: /techinical/
+    url: <a href="techinical">
 
 
 
