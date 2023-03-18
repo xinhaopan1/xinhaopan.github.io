@@ -1,76 +1,141 @@
 ---
 layout: archive
-title: "Honors"
+title: "Honors & Awards"
 permalink: /honors/
 author_profile: true
 ---
 
 <span style="font-family: 'euclid';">
 
-# Working as the principle investigator
 
 <p style="overflow: hidden">
 <span style="font-family: Euclid">
 
 <ul>
 <span style="float: left">
-<li>The 2021 open project of Beijing Key Laboratory of environmental remote sensing and digital city of Beijing Normal University: “<b>Research on the delimitation of urban growth boundary of Beijing-Tianjin-Hebei Urban Agglomeration</b>”, responsible for using deep learning to simulate urban sprawl and morphological operations to delineate urban growth boundaries, as well as the writing of program report and presentation.
-</span>
-<span style="float: right">06/2021~09/2022</span>
-</li>
+<b>First Prize Scholarship for Graduate Student</b></span>
+<span style="float: right">12/2022</span>
 <br>
+Faculty of Geographical Science, Beijing Normal University
 </ul>
+
+<ul>
+<span style="float: left">
+<b>National Scholarship for Graduate Student</b></span>
+<span style="float: right">12/2021</span>
+<br>
+Ministry of Education of the People's Republic of China
+</ul>
+
+<ul>
+<span style="float: left">
+<b>Merit Student</b></span>
+<span style="float: right">12/2021</span>
+<br>
+Beijing Normal University
+</ul>
+
+<ul>
+<span style="float: left">
+<b>The Second Prize of Graduate Academic Innovation Award</b></span>
+<span style="float: right">12/2021</span>
+<br>
+Academic Affairs Department, Beijing Normal University
+</ul>
+
+<ul>
+<span style="float: left">
+<b>First Prize Scholarship for Graduate Student</b></span>
+<span style="float: right">12/2021</span>
+<br>
+Faculty of Geographical Science, Beijing Normal University
+</ul>
+
+<ul>
+<span style="float: left">
+<b>The Excellent Poster Award</b></span>
+<span style="float: right">12/2021</span>
+<br>
+Faculty of Geographical Science, Beijing Normal University
+</ul>
+
+<ul>
+<span style="float: left">
+<b>The Excellent Poster Award</b></span>
+<span style="float: right">12/2021</span>
+<br>
+Faculty of Geographical Science, Beijing Normal University
+</ul>
+
+<ul>
+<span style="float: left">
+<b>First Prize Scholarship for Graduate Student</b></span>
+<span style="float: right">09/2020</span>
+<br>
+Faculty of Geographical Science, Beijing Normal University
+</ul>
+
+<ul>
+<span style="float: left">
+<b>Outstanding Dissertation for Bachelor's Degree</b></span>
+<span style="float: right">06/2020</span>
+<br>
+Yanbian University
+</ul>
+
+<ul>
+<span style="float: left">
+<b>National Scholarship for Undergraduate Students</b></span>
+<span style="float: right">12/2019</span>
+<br>
+Ministry of Education of the People's Republic of China
+</ul>
+
+<ul>
+<span style="float: left">
+<b>Secondary Prize of National GIS Application Skills Competition</b></span>
+<span style="float: right">11/2019</span>
+<br>
+China Association for Geospatial Industry and Sciences
+</ul>
+
+<ul>
+<span style="float: left">
+<b>Merit Student</b></span>
+<span style="float: right">11/2018</span>
+<br>
+College of Science, Yanbian University
+</ul>
+
+<ul>
+<span style="float: left">
+<b>The Second Prize of Jilin Province College Students’ Mathematical Modeling Contest</b></span>
+<span style="float: right">08/2018</span>
+<br>
+Jilin Society for Industrial and Applied Mathematics
+</ul>
+
+<ul>
+<span style="float: left">
+<b>Outstanding League Cadres</b></span>
+<span style="float: right">05/2018</span>
+<br>
+College of Science, Yanbian University
+</ul>
+
+<ul>
+<span style="float: left">
+<b>Fourth Surveying and Mapping Competition Third Prize</b></span>
+<span style="float: right">10/2017</span>
+<br>
+Yanbian University
+</ul>
+
+
 </span>
 </p>
 
 
-# Working as participant
-
-<p style="overflow: hidden">
-<span style="font-family: Euclid">
-
-<ul>
-<span style="float: left">
-<li>
-Participated in the 2020 open project “<b>Global estimation of current and future urban exposure to water scarcity</b>” from Beijing Normal University State Key Laboratory of Earth Surface Processes and Resource Ecology responsible for data processing and water stress index calculation for global catchment areas.
-</span>
-<span style="float: right">05/2020~12/2021</span>
-</li>
-</ul>
-
-<ul>
-<span style="float: left">
-<br>
-<li>
-Participated in the National Key R&D program “<b>Research on the Impacts of Urbanization on Regional and Global Climate Change</b>”, Task 3 “<b>Global Urbanization Trend and its Impacts on Climate Change</b>” Topic 1 “<b>Global Urban Spatial Configuration Simulation</b>”, responsible for improvement of urban expansion model.  
-</span>
-<span style="float: right">11/2019~present</span>
-</li>
-</ul>
-
-<ul>
-<span style="float: left">
-<br>
-<li>
-Participated in “<b>Second Tibetan Plateau Scientific Expedition and Research Program</b>” Task 4 “<b>Ecological Security Barrier Function and Optimization</b>” Topic 5 “<b>Ecological Security Barrier Optimization</b>” sub-topic “<b>Optimization of Ecological Security Barrier in Key Urbanized Areas on the Tibetan Plateau</b>”, responsible for extracting and analysis of the urban expansion trend of Xining. 
-</span>
-<span style="float: right">11/2019~present</span>
-</li>
-</ul>
-
-<ul>
-<span style="float: left">
-<br>
-<li>
-Participated in the Natural Science Foundation of China (NSFC) program “<b>The simulation of urban expansion in Oases based on supplies, demands, and flows of ecosystem services</b>” from National Natural Science Foundation of China, responsible for model improvement.
-</span>
-<span style="float: right">11/2019~present</span>
-</li>
-</ul>
-
-
-</span>
-</p>
 
 
 
@@ -84,7 +149,3 @@ Participated in the Natural Science Foundation of China (NSFC) program “<b>The
 
 
 
-
-
-</span>
-</p>
