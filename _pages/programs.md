@@ -13,7 +13,7 @@ author_profile: true
 <li>The 2021 Open Project of Beijing Key Laboratory of Environmental Remote Sensing and Digital City of Beijing Normal University: “<b>Research on the Delimitation of Urban Growth Boundary of Beijing-Tianjin-Hebei Urban Agglomeration</b>”. Responsible for using deep learning to simulate urban sprawl and morphological operations to delineate urban growth boundaries, as well as writing the program report and presentation.</span>
 <span style="float: right">06/2021~09/2022</span></li><br></ul>
 
-<font size="5"><span style="font-family: euclid"><b>Working as Participant</b></font></span>
+<font size="5"><b>Working as Participant</b></font>
 <ul>
 <span style="float: left">
 <li>
@@ -36,5 +36,3 @@ Participated in the “<b>Second Tibetan Plateau Scientific Expedition and Resea
 <br>
 <li>
 Participated in the Natural Science Foundation of China (NSFC) program “<b>The Simulation of Urban Expansion in Oases Based on Supplies, Demands, and Flows of Ecosystem Services</b>” from National Natural Science Foundation of China, responsible for model improvement.</span><span style="float: right">11/2019~present</span></li></ul></span></p>
-
-
