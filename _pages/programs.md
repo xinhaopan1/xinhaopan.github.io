@@ -15,7 +15,7 @@ author_profile: true
 
 <b><font size="4">Working as Participant</font></b>
   <ul>
-	<li>Participated in the 2020 Open Project “<b>Global Estimation of Current and Future Urban Exposure to Water Scarcity</b>” from Beijing Normal University State Key Laboratory of Earth Surface Processes and Resource Ecology, responsible for data processing and water stress index calculation for global catchment areas.<span style="float: right">11/2019~present</span></li>
+	<li>Participated in the 2020 Open Project “<b>Global Estimation of Current and Future Urban Exposure to Water Scarcity</b>” from Beijing Normal University State Key Laboratory of Earth Surface Processes and Resource Ecology, responsible for data processing and water stress index calculation for global catchment areas.<span style="float: right">05/2020~12/2021</span></li>
   </ul>
 <br>
   <ul>
