@@ -52,3 +52,7 @@ I am Xinhao.
 <h2 id="honors"> Honors & Awards</h2>
 <h2 id="practice"> Practice Experience</h2>
 <h2 id="techinical"> Techinical Skills</h2>
+
+This is my section.
+
+<a id="my-section"></a>

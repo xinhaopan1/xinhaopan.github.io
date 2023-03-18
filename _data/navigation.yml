@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: Navigation Title
-    url: /programs/#techinical
+    url: /about/#my-section
   - title: "Education"
     url: /education/
   - title: "Publications"
