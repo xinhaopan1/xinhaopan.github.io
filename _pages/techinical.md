@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Programs Experience"
-permalink: /programs/
+title: "Techinical Skills"
+permalink: /techinical/
 author_profile: true
 ---
 
