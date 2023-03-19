@@ -1,8 +1,7 @@
 ---
 layout: archive
-permalink: /
 title: "Xinhao’s Academic Pages"
-excerpt: "About me"
+permalink: /
 author_profile: true
 
 ---
