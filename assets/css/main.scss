@@ -39,3 +39,16 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// Existing styles ...
+
+@import "footer"; // Import footer styles
+
+.footnotes {
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Additional styles ...
+
