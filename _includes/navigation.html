@@ -1,25 +1,9 @@
-<head>
-  <script src="javascript/file.js"></script>
-</head>
-
-
-<div class="navigation-wrapper">
-  <nav class="navigation">
-    <ul>
-      {% for item in site.data.navigation %}
-        <li>
-          <a href="{{ item.url }}">{{ item.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-  </nav>
-</div>
-
-<style>
-.navigation-wrapper {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-}
-</style>
+<nav id="navigation">
+  <ul>
+    {% for item in site.data.navigation %}
+      <li>
+        <a href="{{ item.url }}">{{ item.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
