@@ -5,6 +5,13 @@
 /*
    Breadcrumb navigation links
    ========================================================================== */
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+
 
 .breadcrumbs {
   @include container;
