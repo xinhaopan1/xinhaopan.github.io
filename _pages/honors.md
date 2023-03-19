@@ -53,7 +53,7 @@ Faculty of Geographical Science, Beijing Normal University
 
 <ul>
 <span style="float: left">
-<b>The Excellent Poster Award</b></span>
+<b>The Excellent Report Award</b></span>
 <span style="float: right">12/2021</span>
 <br>
 Faculty of Geographical Science, Beijing Normal University
