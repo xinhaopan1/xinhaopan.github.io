@@ -3,17 +3,17 @@ main:
   - title: Home
     url: https://xinhaopan.github.io
   - title: "Education"
-    url: https://xinhaopan.github.io/#education
+    url: /education/
   - title: "Publications"
-    url: https://xinhaopan.github.io/#publications
+    url: /publications/
   - title: "Programs"
-    url: https://xinhaopan.github.io/#programs
+    url: /programs/
   - title: "Honors & Awards"
-    url: https://xinhaopan.github.io/#honors
+    url: /honors/
   - title: "Practice"
-    url: https://xinhaopan.github.io/#practice
+    url: /practice/
   - title: "Techinical Skills"
-    url: https://xinhaopan.github.io/#techinical
+    url: /techinical/
 
 
 
