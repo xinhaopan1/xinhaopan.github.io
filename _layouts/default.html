@@ -21,11 +21,25 @@ layout: compress
 
     {% include masthead.html %}
 
-    {{ content }}
+    <div class="page__content">
+      {{ content }}
+
+      <div class="footnotes">
+        <hr>
+        <ol>
+          {% for note in site.footnotes %}
+            <li id="fn:{{ note[0] }}">
+              {{ note[1] }}
+              <a href="#fnref:{{ note[0] }}" class="reversefootnote">&#8617;</a>
+            </li>
+          {% endfor %}
+        </ol>
+      </div>
+    </div>
 
     <div class="page__footer">
       <footer>
-    Last modified: March 19th, 2023.
+        Last modified: March 19th, 2023.
       </footer>
     </div>
 
@@ -33,6 +47,5 @@ layout: compress
 
   </body>
 </html>
-
 
 
