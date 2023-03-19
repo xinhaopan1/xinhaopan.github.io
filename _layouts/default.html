@@ -14,18 +14,30 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
-    {% include masthead.html %}
 
-    {{ content }}
+    <div class="page__navigation">
+      {% include navigation.html %}
+    </div>
 
-    <div class="page__footer">
+    <div class="page__content">
+      {% include masthead.html %}
+      {{ content }}
       <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
+        Last modified: March 19th, 2023.
       </footer>
     </div>
 
-    {% include scripts.html %}
+    <div class="page__footer">
+      {% include scripts.html %}
+    </div>
+
+    <style>
+      .footnotes {
+        max-width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    </style>
 
   </body>
 </html>

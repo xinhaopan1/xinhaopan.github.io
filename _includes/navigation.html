@@ -1,3 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Jekyll Website</title>
+	<style>
+		.navbar {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			z-index: 9999;
+		}
+		h1 {
+			text-align: center;
+			margin-top: 100px;
+		}
+	</style>
+</head>
+<body>
+
+
+
 <nav class="navigation">
   <ul>
     {% for item in site.data.navigation %}
@@ -7,3 +29,7 @@
     {% endfor %}
   </ul>
 </nav>
+
+
+</body>
+</html>
