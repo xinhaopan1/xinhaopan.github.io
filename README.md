@@ -25,5 +25,5 @@ c. 修改根目录根目录中的`_config.yml`文件，写下名称和链接
 ### 1. 修改更新时间
 修改`_includes\footer`文件夹中的`custom.html`中的时间。
 
-# 欢迎访问我的主页： 
-<a href="https://xinhaopan.github.io/"  target="_blank">https://xinhaopan.github.io/</a>
+# 该网页由Xinhao Pan基于Jekyll和AcademicPages修改，欢迎访问我的主页： <a href="https://xinhaopan.github.io/"  target="_blank">https://xinhaopan.github.io/</a>
+
