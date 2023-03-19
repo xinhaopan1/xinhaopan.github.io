@@ -22,23 +22,36 @@ layout: compress
     <div class="page__content">
       {% include masthead.html %}
       {{ content }}
-      <footer>
-        Last modified: March 19th, 2023.
-      </footer>
+      <div class="page__footer">
+        <footer>
+          {% include footer/custom.html %}
+          {% include footer.html %}
+        </footer>
+      </div>
     </div>
 
-    <div class="page__footer">
-      {% include scripts.html %}
+    {% include scripts.html %}
 
-      <style>
-        .footnotes {
-          max-width: 80%;
-          margin-left: auto;
-          margin-right: auto;
-        }
-      </style>
-    </div>
+    <style>
+      .page__navigation,
+      .page__footer {
+        position: fixed;
+        left: 0;
+        right: 0;
+        z-index: 99;
+        background-color: #fff;
+        padding: 10px;
+        border-bottom: 1px solid #ccc;
+      }
+
+      .page__navigation {
+        top: 0;
+      }
+
+      .page__footer {
+        bottom: 0;
+      }
+    </style>
 
   </body>
 </html>
-
