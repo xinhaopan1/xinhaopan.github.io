@@ -14,13 +14,18 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
+
+    <div class="page__navigation">
+      {% include navigation.html %}
+    </div>
+
     {% include masthead.html %}
 
     {{ content }}
 
     <div class="page__footer">
       <footer>
-		Last modified: March 19th, 2023.
+    Last modified: March 19th, 2023.
       </footer>
     </div>
 
@@ -28,3 +33,6 @@ layout: compress
 
   </body>
 </html>
+
+
+
