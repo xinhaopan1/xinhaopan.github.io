@@ -1,3 +1,12 @@
-var script = document.createElement('script');
-script.src = 'path/to/your/javascript/file.js';
-document.getElementsByTagName('head')[0].appendChild(script);
+window.onscroll = function() {fixNavigation()};
+
+var navigation = document.getElementById("navigation");
+var navigationOffset = navigation.offsetTop;
+
+function fixNavigation() {
+  if (window.pageYOffset >= navigationOffset) {
+    navigation.classList.add("fixed");
+  } else {
+    navigation.classList.remove("fixed");
+  }
+}
