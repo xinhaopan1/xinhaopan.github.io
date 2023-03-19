@@ -268,7 +268,9 @@ Yanbian University
 <br>
 <ul><li>Beijing SuperMap Information Technology Co. Ltd<span style="float: right">08/2029~11/2019 (four months)</span></li>
 </ul>
+</ul>
 <br>
+
 
 
 <h2 id="techinical"> Techinical Skills</h2>
