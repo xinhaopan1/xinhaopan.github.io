@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Xinhao’s Academic Pages"
 excerpt: "About me"
