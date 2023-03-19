@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>My Jekyll Website</title>
-	<style>
-		.navbar {
-			position: fixed;
-			top: 0;
-			left: 0;
-			width: 100%;
-			z-index: 9999;
-		}
-	</style>
-</head>
-<body>
-
-<nav class="navbar">
+<nav class="navigation">
   <ul>
     {% for item in site.data.navigation %}
       <li>
@@ -23,8 +7,3 @@
     {% endfor %}
   </ul>
 </nav>
-
-<h1>Hello, World!</h1>
-
-</body>
-</html>
