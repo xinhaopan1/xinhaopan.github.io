@@ -17,5 +17,3 @@ c. 修改根目录根目录中的`_config.yml`文件，写下名称和链接
 ## 修改脚注
 ### 1. 修改更新时间
 修改`_includes\footer`文件夹中的`custom.html`中的时间。
-### 1. 修改版权信息
-修改`_includes`文件夹中的`footer.html`文件。
