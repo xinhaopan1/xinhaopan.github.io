@@ -79,10 +79,11 @@ analytics:
 
 
 # Site Author
+#"I am seeking a Geography PhD position starting in Spring 2024."
 author:
   name             : "Xinhao Pan"
   avatar           : "profile1.jpg"
-  bio              : "I am seeking a Geography PhD position starting in Spring 2024."
+  bio              : "I am seeking a PhD position in Geography"
   university       : "https://www.bnu.edu.cn/"
   location         : "Beijing·China"
   employer         :
