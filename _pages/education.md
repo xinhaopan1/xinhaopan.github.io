@@ -21,7 +21,7 @@ redirect_from:
 
 * 🎓 **Beijing Normal University**
     * Master of Natural Resources
-    * 09/2020~07/2023 (except)
+    * 09/2020~07/2023 (expect)
     * 📍 *Beijing, China*
     
 
