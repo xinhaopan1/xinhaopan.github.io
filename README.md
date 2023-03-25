@@ -2,9 +2,8 @@
 # 使用方法
 ## 一. fork到自己的github中
 ### 1.注册一个 GitHub 帐户并确认您的电子邮件（必需！），注册时最好设置GitHub username都为小写
-### 2.打开我GitHub的repository，链接：<a href="链接地址" target="https://github.com/xinhaopan/xinhaopan.github.io">https://github.com/xinhaopan/xinhaopan.github.io</a>
-### 3.单击右上角的“fork”按钮
-### 4.转到存储库的设置，修改名字为[your GitHub username].github.io", 这也将是您网站的网址（URL）,名字必须与GitHub username名字一至，包括大小写一致，实际上名字只能都是小写，如果不行就改下GitHub username名字
+### 2.单击右上角的“fork”按钮
+### 3.转到存储库的设置，修改名字为[your GitHub username].github.io", 这也将是您网站的网址（URL）,名字必须与GitHub username名字一至，包括大小写一致，实际上名字只能都是小写，如果不行就改下GitHub username名字
 
 
 # 修改方法
@@ -28,5 +27,7 @@ c. 修改根目录根目录中的`_config.yml`文件，写下名称和链接
 
 ## 四、添加博客
 在`_posts`文件夹中新建`.md`格式的文件，即可写自己的博客，文件名称必须按照“`YEAR-MONTH-DAY-title.md`”的格式，例如“`2023-03-20-Blog Test.md`”,建议在之前博客文件的基础上进行修改。
+
+# 欢迎访问我的个人主页：<a href="链接地址" target="https://xinhaopan.github.io/">https://xinhaopan.github.io/</a>
 
 
