@@ -19,7 +19,7 @@ author_profile: true
   </ul>
 <br>
   <ul>
-	<li>Participated in the “<b>Second Tibetan Plateau Scientific Expedition and Research Program</b>”, Task 4 “<b>Ecological Security Barrier Function and Optimization</b>”, Topic 5 “<b>Ecological Security Barrier Optimization</b>”, sub-topic “<b>Optimization of Ecological Security Barrier in Key Urbanized Areas on the Tibetan Plateau</b>”, responsible for extracting and analyzing the urban expansion trend of Xining.<span style="float: right">11/2019~present</span></li>
+	<li> Participated in the National Key R&D program “<b>Research on the Impacts of Urbanization on Regional and Global Climate Change</b>”, Task 3 “<b>Global Urbanization Trend and its Impacts on Climate Change</b>” Topic 1 “<b>Global Urban Spatial Configuration Simulation</b>”, responsible for improvement of urban expansion model.<span style="float: right">11/2019~present</span></li>
   </ul>
 <br>
   <ul>
