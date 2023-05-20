@@ -23,10 +23,10 @@ author_profile: true
 <span style="float: left">
 <b>Academic Conference</b></span>
 <br>
-<ul><li>China Conference on Geography 2021 (Remote)<span style="float: right">12/2021</span></li>
-<li>The 8th Youth Geosciences Forum (Wuhan,China)<span style="float: right">05/2023</span></li>
+<ul><li>China Conference on Geography 2021<span style="float: right">12/2021</span></li>
 </ul>
 <br>
+
 
 <li>
 <span style="float: left">
@@ -36,6 +36,14 @@ author_profile: true
 </ul>
 <br>
 
+
+<li>
+<span style="float: left">
+<b>Internship experience</b></span>
+<br>
+<ul><li>Beijing SuperMap Information Technology Co. Ltd<span style="float: right">08/2029~11/2019 (four months)</span></li>
+</ul>
+<br>
 
 
 
