@@ -13,6 +13,11 @@ redirect_from:
 
 <span style="font-family: 'euclid';">
 
+* 🎓 **Hong Kong Polytechnic University**
+    * Phd
+    * 09/2023~Now
+    * 📍 *Hongkong, China*
+
 * 🎓 **University of Groningen**
     * Exchange student of Spatial Sciences
     * 09/2022~02/2023
@@ -21,7 +26,7 @@ redirect_from:
 
 * 🎓 **Beijing Normal University**
     * Master of Natural Resources
-    * 09/2020~07/2023 (expect)
+    * 09/2020~07/2023
     * 📍 *Beijing, China*
     
 

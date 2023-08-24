@@ -13,6 +13,30 @@ author_profile: true
 
 <ul>
 <span style="float: left">
+<b>Excellent Student of High Education in Beijing</b></span>
+<span style="float: right">06/2023</span>
+<br>
+Beijing Municipal Education Commission
+</ul>
+
+<ul>
+<span style="float: left">
+<b> Outstanding Graduate in Beijing Normal University</b></span>
+<span style="float: right">06/2023</span>
+<br>
+Beijing Normal University
+</ul>
+
+<ul>
+<span style="float: left">
+<b>The 4th IALE-China Duxue Award</b></span>
+<span style="float: right">06/2023</span>
+<br>
+International Association for Landscape Ecology-China
+</ul>
+
+<ul>
+<span style="float: left">
 <b>First Prize Scholarship for Graduate Student</b></span>
 <span style="float: right">12/2022</span>
 <br>
