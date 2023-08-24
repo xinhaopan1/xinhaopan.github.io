@@ -28,7 +28,7 @@ author_profile: true
 <ul>
 	<li>China Conference on Geography 2021 (Remote)<span style="float: right">12/2021</span></li>
 	<li>The 8th Youth Geosciences Forum (Wuhan,China)<span style="float: right">05/2023</span></li>
-	<li>The 11th Chinese Landscape Ecology Congresses(Changchun,China)<span style="float: right">12/2021</span></li>
+	<li>The 11th Chinese Landscape Ecology Congresses(Changchun,China)<span style="float: right">06/2023</span></li>
 </ul>
 <br>
 
